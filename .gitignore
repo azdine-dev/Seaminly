@@ -32,4 +32,8 @@ build/
 
 #### OTHERS ###
 lib
+<<<<<<< HEAD
 .mvn
+=======
+.mvn
+>>>>>>> develop
